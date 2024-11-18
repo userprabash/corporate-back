@@ -382,7 +382,7 @@ function Home() {
             className="mySwiper"
           >
             <SwiperSlide>
-              <div className="slide">
+              <div className="slide slide-1">
                 <div className="badge-1">
                   <p>Transportation</p>
                   <h5>Product Distribution</h5>
@@ -390,7 +390,7 @@ function Home() {
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div className="slide">
+              <div className="slide slide-2">
                 <div className="badge-1">
                   <p>Transportation</p>
                   <h5>Product Distribution</h5>
@@ -398,7 +398,7 @@ function Home() {
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div className="slide">
+              <div className="slide slide-3">
                 <div className="badge-1">
                   <p>Transportation</p>
                   <h5>Product Distribution</h5>
@@ -406,7 +406,7 @@ function Home() {
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div className="slide">
+              <div className="slide slide-4">
                 <div className="badge-1">
                   <p>Transportation</p>
                   <h5>Product Distribution</h5>
